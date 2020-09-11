@@ -26,7 +26,7 @@ Clone of Spotify built in React using the Spotify API to pull the playlists for 
   - 🍴 Fork this repo!
 
 - **Option 2**
-  - 👯 Clone this repo to your local machine using `https://github.com/BillyNoyes/covid-19-test-and-trace.git`
+  - 👯 Clone this repo to your local machine using `https://github.com/BillyNoyes/spotify-clone.git`
 
 ### Step 2
 
@@ -34,7 +34,7 @@ Clone of Spotify built in React using the Spotify API to pull the playlists for 
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/BillyNoyes/covid-19-test-and-trace/compare/" target="_blank">`https://github.com/BillyNoyes/covid-19-test-and-trace/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/BillyNoyes/spotify-clone/compare/" target="_blank">`https://github.com/BillyNoyes/spotify-clone/compare/`</a>.
 
 ---
 
