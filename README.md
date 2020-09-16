@@ -1,5 +1,7 @@
 ## Spotify Clone
 
+[https://spotify-clone-8bf96.web.app/](https://spotify-clone-8bf96.web.app/)
+
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 Clone of Spotify built in React using the Spotify API to pull the playlists for the user and add the functionality for the play/pause button.
